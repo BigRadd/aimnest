@@ -1,6 +1,6 @@
 {
-  "name": "Mi Ruta de Estudio",
-  "short_name": "Estudio",
+  "name": "Aimnest",
+  "short_name": "Aimnest",
   "description": "Plan de 3 meses para aprender programación",
   "start_url": "./index.html",
   "display": "standalone",
